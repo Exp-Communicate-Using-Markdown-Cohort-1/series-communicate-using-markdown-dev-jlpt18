@@ -7,7 +7,8 @@ Soy un estudiante de Ingenieria en Computación, que tiene como hobby:
 - [x] Apasionado por los juegos
 - [x] Lectura de libros de fantasía y desarrollo personal.
 - [x] Resolver problemas.
-      
+- [x] Busqueda de la excelencia.
+       
 Para terminar les dejo un fragmento del codigo más mítico al iniciar en la programación.
 
 ```
