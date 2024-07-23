@@ -1,6 +1,5 @@
 ### Hola a todos, me llamo Jesús.
 #### Aqui realizare una mini presentación donde usare Markdown
-![Github presentacion](https://images.datacamp.com/image/upload/v1651047046/image8_0e61d0dad8.png)
 
 Me uni a Github, debido a que es una de las herramientas fundamentales para todo programador. 
 Soy un estudiante de Ingenieria en Computación, que tiene como hobby:
@@ -15,3 +14,5 @@ Para terminar les dejo un fragmento del codigo más mítico al iniciar en la pro
 print ("Hola mundo")
 ```
 PD: Sabes que lenguaje se esta usando ?.
+
+![Github presentacion](https://images.datacamp.com/image/upload/v1651047046/image8_0e61d0dad8.png)
